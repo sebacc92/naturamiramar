@@ -12,7 +12,7 @@ function MyWebsite() {
             <div style={{padding: '1em', backgroundColor: 'rgba(255, 255, 255, 0.8)'}}>
                 <h1>Bienvenido/a a nuestro catálogo de productos Natura</h1>
                 <p>Te invitamos a descubrir y comprar nuestros productos en Miramar, Buenos Aires.</p>
-                <p>Contacta a Daiana Lentz a través de WhatsApp al: <a href="https://wa.me/542213096805"><FaWhatsapp color="#25D366" size="1.5em" /> 2213 09-6805</a></p>
+                <p>Contacta a <b>Daiana Lentz</b> a través de WhatsApp al: <a href="https://wa.me/542213096805"><FaWhatsapp color="#25D366" size="1.5em" /> 2213 09-6805</a></p>
             </div>
         </div>
     );
