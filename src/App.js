@@ -5,7 +5,7 @@ function MyWebsite() {
     return (
         <div style={{display: 'flex', flexDirection: 'column', height: '100vh', width: '100%'}}>
             <iframe 
-                src="https://ar.natura.digital-catalogue.com/ar/2023/08/revista/ciclo-08/view/index.html?id_consultora=&fbclid=IwAR2zircPJ2rFEhArnbOeGHX0-PMn3BuwKJQQQMCeJhoMc9Ag535IvuoOxOQ&page=1" 
+                src="https://www.naturacosmeticos.com.ar/consultoria/daianaclentz" 
                 style={{flexGrow: 1, width: '100%', border: '0'}}
                 title="Natura Catalogue"
             />
